@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Employee Management System is a web-based application designed to simplify employee administration. It offers features like attendance tracking, leave management, and performance evaluation. The system is built with Spring Boot for the backend, using MySQL for the database, and Vite with React for the frontend. 
+The Employee Management System is a web-based application designed to add, edit & delete employee basic information. The system is built with Spring Boot for the backend, using MySQL for the database, and Vite with React for the frontend. 
 
 
 - **Employee CRUD Operations:**
